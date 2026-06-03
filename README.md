@@ -9,9 +9,9 @@ Backend developer specializing in building robust, secure, and high-concurrency 
 **Tech Stack:**
 * **Runtime:** Node.js (LTS)
 * **Framework:** Express.js
-* **Languages:** JavaScript
+* **Languages:** Python, JavaScript
 * **Databases:** PostgreSQL, MongoDB, Redis
-* **Tools:** Docker, AWS (EC2/S3), GitHub Actions (CI/CD)
+* **Tools:** GCP, AWS (EC2/S3), Docker, GitHub Actions (CI/CD), Kubernetes
 * **Testing:** Jest, Supertest, Postman
 
 ---
@@ -40,5 +40,5 @@ Backend developer specializing in building robust, secure, and high-concurrency 
 * **LinkedIn:** linkedin.com/in/david-fred
 
 ---
-*SEO Keywords: Backend Web Developer, Node.js Engineer, Express.js API Development, Software Architect, JavaScript Backend, REST API Specialist, Scalable Systems.*
+*SEO Keywords: Backend Web Developer, Python Developer, Node.js Engineer, Express.js API Development, Software Engineer, JavaScript Backend, REST API Specialist, Scalable Systems.*
 
