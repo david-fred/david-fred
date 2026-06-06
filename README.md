@@ -10,7 +10,7 @@ Backend developer specializing in building robust, secure, and high-concurrency 
 * **Runtime:** Node.js (LTS)
 * **Framework:** Express.js
 * **Languages:** Python, JavaScript
-* **Databases:** PostgreSQL, MongoDB, Redis
+* **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 * **Tools:** GCP, AWS (EC2/S3), Docker, GitHub Actions (CI/CD), Kubernetes
 * **Testing:** Jest, Supertest, Postman
 
