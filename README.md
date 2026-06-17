@@ -4,15 +4,14 @@
 ---
 
 ## 01. PROFILE
-Backend developer specializing in building robust, secure, and high-concurrency systems using **Node.js** and **Express.js**. I prioritize clean architecture, data integrity, and automated testing to deliver production-ready code.
+Backend developer specializing in building robust, secure, and high-concurrency systems using **Python** and **FastAPI**. I prioritize clean architecture, data integrity, and automated testing to deliver production-ready code.
 
 **Tech Stack:**
-* **Runtime:** Node.js (LTS)
-* **Framework:** Express.js
-* **Languages:** Python, JavaScript
-* **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+* **Framework:** FastAPI
+* **Languages:** Python, SQL
+* **Databases:** PostgreSQL, MySQL, Redis, Celery
 * **Tools:** GCP, AWS (EC2/S3), Docker, GitHub Actions (CI/CD), Kubernetes
-* **Testing:** Jest, Supertest, Postman
+* **Testing:** PyTest, Postman
 
 ---
 
@@ -40,5 +39,5 @@ Backend developer specializing in building robust, secure, and high-concurrency 
 * **LinkedIn:** linkedin.com/in/david-fred
 
 ---
-*SEO Keywords: Backend Web Developer, Python Developer, Software Engineer, REST API Specialist, Scalable Systems.*
+*SEO Keywords: Backend Web Developer, Python Backend Engineer, Data Pipeline Engineer, Cloud Security, FastAPI Developer, Python Developer, Software Engineer, REST API Specialist, Scalable Systems.*
 
