@@ -4,7 +4,7 @@
 ---
 
 ## 01. PROFILE
-Backend developer specializing in building robust, secure, and high-concurrency systems using **Python** and **FastAPI**. I prioritize clean architecture, data integrity, and automated testing to deliver production-ready code.
+Backend developer specializing in building robust, secure, and high-concurrency systems using **Python**. I prioritize clean architecture, data integrity, and automated testing to deliver production-ready code.
 
 **Tech Stack:**
 * **Framework:** FastAPI
