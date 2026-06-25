@@ -1,5 +1,5 @@
 # DAVID FRED | BACKEND ENGINEER
-**Focus:** Scalable Systems, API Architecture & Performance Optimization
+**Focus:** Scalable APIs & Efficient Data Driven Solutions
 
 ---
 
