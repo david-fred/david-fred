@@ -9,9 +9,9 @@ Backend developer specializing in building robust, secure, and high-concurrency 
 **Tech Stack:**
 * **Framework:** FastAPI
 * **Languages:** Python, SQL
-* **Databases:** PostgreSQL, MySQL, Redis, Celery
-* **Tools:** GCP, AWS (EC2/S3), Docker, GitHub Actions (CI/CD), Kubernetes
-* **Testing:** PyTest, Postman
+* **Databases:** PostgreSQL, MySQL
+* **Tools:** GCP, AWS, Docker, Kubernetes, GitHub Actions (CI/CD)
+* **Testing:** PyTest, Playwright, Postman
 
 ---
 
