@@ -1,4 +1,4 @@
-# DAVID FRED | BACKEND & DATA ENGINEER
+# DAVID FRED | DATA ENGINEER
 **Focus:** Scalable APIs & Efficient Data Driven Solutions
 
 ---
