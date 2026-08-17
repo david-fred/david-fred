@@ -10,7 +10,7 @@ Backend and Data Engineer specializing in building robust, secure, and high-conc
 * **Framework:** FastAPI
 * **Languages:** Python, SQL
 * **Databases:** PostgreSQL, MySQL
-* **Tools:** GCP, AWS, Docker, Kubernetes, GitHub Actions (CI/CD)
+* **Tools:** GCP, AWS, Docker, Kubernetes, CI/CD (DataOps)
 * **Testing:** PyTest, Playwright, Postman
 
 ---
