@@ -1,10 +1,10 @@
 # DAVID FRED | DATA ENGINEER
-**Focus:** Scalable APIs & Efficient Data Driven Solutions
+**Focus:** Scale data infrastructures and pipelines
 
 ---
 
 ## 01. PROFILE
-Backend and Data Engineer specializing in building robust, secure, and high-concurrency systems using **Python**. I prioritize clean architecture, data integrity, and automated testing to deliver production-ready code.
+Software & Data Engineer specializing in building robust, secure, and high-concurrency systems using **Python**. I prioritize clean architecture, data integrity, and automated testing to deliver production-ready code.
 
 **Tech Stack:**
 * **Framework:** FastAPI
