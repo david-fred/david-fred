@@ -10,7 +10,7 @@ Software & Data Engineer specializing in building robust, secure, and high-concu
 * **Framework:** FastAPI
 * **Languages:** Python, SQL
 * **Databases:** PostgreSQL, MySQL
-* **Tools:** Snowflake, dbt, GCP, AWS, Teraform, Kubernetes, CI/CD (DataOps)
+* **Tools:** Kafka, dbt, Snowflake, GCP, AWS, Teraform, Kubernetes, CI/CD (DataOps)
 * **Testing:** PyTest, Playwright, Postman
 
 ---
