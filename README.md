@@ -30,12 +30,7 @@ Software & Data Engineer specializing in building robust, secure, and high-concu
 
 ---
 
-## 05. CONTRIBUTIONS
-* **Philosophy:** Writing code for humans first, machines second.
-
----
-
-## 06. CONTACT
+## 03. CONTACT
 * **LinkedIn:** linkedin.com/in/david-fred
 
 ---
