@@ -15,8 +15,8 @@ Software & Data Engineer specializing in building robust, secure, and high-concu
 
 ---
 
-## 02. RESUME
-* [Download/View Full PDF Resume](./Resume.pdf)
+## 02. CV
+* [Download/View Full PDF CV](./Resume.pdf)
 
 ---
 
@@ -24,5 +24,5 @@ Software & Data Engineer specializing in building robust, secure, and high-concu
 * **LinkedIn:** linkedin.com/in/david-fred
 
 ---
-*SEO Keywords: Backend Web Developer, Python Backend Engineer, Data Pipeline Engineer, DataOps, FastAPI Developer, Python Developer, Software Engineer, REST API Specialist, Scalable Systems.*
+*SEO Keywords: Backend Web Developer, Python Backend Engineer, Data Pipeline Engineer, DataOps, FastAPI Developer, Python Developer, Software Engineer, REST API Specialist.*
 
