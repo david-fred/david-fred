@@ -16,17 +16,7 @@ Software & Data Engineer specializing in building robust, secure, and high-concu
 ---
 
 ## 02. RESUME
-<details>
-<summary><b>📄 Click to expand/view Resume Summary</b></summary>
-
-### Professional Summary
-* Focused on building RESTful and GraphQL APIs with high availability.
-* Expert in database schema design and performance tuning.
-* Experienced in implementing CI/CD pipelines for automated deployment.
-
-### Download Full Version
 * [Download/View Full PDF Resume](./Resume.pdf)
-</details>
 
 ---
 
