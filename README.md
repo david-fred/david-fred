@@ -11,7 +11,7 @@ Software & Data Engineer specializing in building robust, secure, and high-concu
 * **Languages:** Python, SQL
 * **Databases:** PostgreSQL
 * **Tools:** Kafka, dbt, Snowflake, GCP
-* **Testing:** PyTest, Playwright, Postman
+* **Testing:** PyTest, Playwright
 
 ---
 
