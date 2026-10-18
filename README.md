@@ -1,16 +1,16 @@
 # DAVID FRED | DATA ENGINEER
-**Focus:** Scale data infrastructures and pipelines
+**Focus:** Scale data infrastructure and pipelines, turning data into real-time decisions
 
 ---
 
 ## 01. PROFILE
-Software & Data Engineer specializing in building robust, secure, and high-concurrency systems using **Python**. I prioritize clean architecture, data integrity, and automated testing to deliver production-ready code.
+Software & Data Engineer specializing in building scalable data systems using **Python**. I prioritize clean architecture, data integrity, and robust pipeline engineering to deliver production-ready data platforms.
 
 **Tech Stack:**
 * **Framework:** FastAPI
 * **Languages:** Python, SQL
 * **Databases:** PostgreSQL
-* **Tools:** Kafka, dbt, Snowflake, GCP
+* **Tools:** Kafka, Airflow, dbt, BigQuery, git, Looker Studio
 * **Testing:** PyTest, Playwright
 
 ---
