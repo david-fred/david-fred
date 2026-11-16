@@ -7,21 +7,15 @@
 Backend Software Engineer specializing in building scalable web applications using **PHP** and **Laravel**. Experienced in clean architecture, database optimization, and API design to deliver production-ready platforms.
 
 **Tech Stack:**
-- **Framework:** Laravel (Blade, Livewire, Inertia.js)
+- **Framework:** Laravel (Blade, Livewire, Inertia.js, Alpine.js)
 
-- **Languages:** PHP, SQL, JavaScript (Vue.js / React)
+- **Languages:** PHP, SQL, JavaScript (React)
 
 - **Databases:** MySQL, PostgreSQL, Redis
 
-- **Tools:** Docker, Git, Laravel Forge/Vapor, Composer, Postman
+- **Tools:** Docker, Git, Postman
 
-- **Testing:** PHPUnit, Pest PHP
-
-
----
-
-## 02. CV
-- [Download/View Full PDF CV](./Resume.pdf)
+- **Testing:** Pest PHP
 
 
 ---
