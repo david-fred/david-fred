@@ -3,7 +3,7 @@
 
 ---
 
-## 01. PROFILE
+## PROFILE
 Backend Software Engineer specializing in building scalable web applications using **PHP** and **Laravel**. Experienced in clean architecture, database optimization, and API design to deliver production-ready platforms.
 
 **Tech Stack:**
@@ -20,7 +20,7 @@ Backend Software Engineer specializing in building scalable web applications usi
 
 ---
 
-## 03. CONTACT
+## CONTACT
 - **LinkedIn:** linkedin.com/in/david-fred
 
 
