@@ -9,7 +9,7 @@ Backend Software Engineer specializing in building scalable web applications usi
 **Tech Stack:**
 - **Framework:** Laravel (Blade, Livewire, Inertia.js, Alpine.js)
 
-- **Languages:** PHP, SQL, JavaScript (React)
+- **Languages:** PHP, JavaScript (React)
 
 - **Databases:** MySQL, PostgreSQL, Redis
 
