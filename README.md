@@ -11,7 +11,7 @@ Backend Software Engineer specializing in building scalable web applications usi
 
 - **Languages:** PHP, JavaScript (React)
 
-- **Databases:** MySQL, PostgreSQL, Redis
+- **Databases:** PostgreSQL, Redis
 
 - **Tools:** Docker, Git, Postman
 
