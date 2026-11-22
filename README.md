@@ -1,10 +1,10 @@
 # DAVID FRED | LARAVEL DEVELOPER
-**Focus:** Building scalable web applications, robust APIs, and high-performance backend systems
+**Focus:** Web Apps, Mobile Apps, APIs
 
 ---
 
 ## PROFILE
-Backend Software Engineer specializing in building scalable web applications using **PHP** and **Laravel**. Experienced in clean architecture, database optimization, and API design to deliver production-ready platforms.
+Backend Software Engineer building scalable web applications using **Laravel**. Experienced in clean architecture, database optimization, and API design to deliver production-ready platforms.
 
 **Tech Stack:**
 - **Framework:** Laravel (Blade, Livewire, Inertia.js, Alpine.js)
