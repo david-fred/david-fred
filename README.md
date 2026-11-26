@@ -4,7 +4,7 @@
 ---
 
 ## PROFILE
-Backend Software Engineer building scalable web applications using **Laravel**. Experienced in clean architecture, database optimization, and API design to deliver production-ready platforms.
+Backend Software Engineer building scalable software applications using **Laravel**. Experienced in clean architecture, database optimization, and API design to deliver production-ready platforms.
 
 **Tech Stack:**
 - **Framework:** Laravel (Blade, Livewire, Inertia.js, Alpine.js)
